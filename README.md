@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Marafigo
 
-Sou um desenvolvedor de software backend iniciante, motivado e pronto para usar minhas habilidades técnicas e interpessoais para ajudar em projetos de desenvolvimento. Tenho uma boa base em ciência da computação e vários cursos em áreas importantes como banco de dados, versionamento de código e linguagens. Estou preparado para enfrentar desafios e contribuir com novos projetos. Aprendo rápido e estou sempre buscando me aprimorar para atender às necessidades da área.
+Sou um desenvolvedor de software backend iniciante, motivado e pronto para usar minhas habilidades técnicas e interpessoais para ajudar em projetos de desenvolvimento. Estou cursando ciência da computação e me aprimorei com cursos em areas  importantes como banco de dados, versionamento de código e linguagens. Estou preparado para enfrentar desafios e contribuir com novos projetos. Aprendo rápido e estou sempre buscando me aprimorar para atender às necessidades da área.
 
 ## 🖥️ Languages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
