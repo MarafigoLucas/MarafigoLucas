@@ -17,9 +17,10 @@ Sou um desenvolvedor de software backend iniciante, motivado e pronto para usar 
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
 
 ## 🛠️ IDEs e Ferramentas
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-darkblue?style=for-the-badge&logo=intellij-idea)
+
 
 ## 📊 Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark)
